@@ -11,6 +11,6 @@ This project was created using HTML, SCSS and JS. The responsiveness was kept th
   <img src="https://user-images.githubusercontent.com/107587774/215543807-dbfbc81f-558f-42ac-bced-2c82b15e943e.png" | width=300>
 </p>
 <p>
-  <img src="https://user-images.githubusercontent.com/107587774/215543811-05defee5-d7c7-46f5-b9fa-fa0194b3f670.png" | width=400>
-  <img src="https://user-images.githubusercontent.com/107587774/215543813-74d2cab9-d68c-40d1-aefa-c8c1728724f1.png" | width=400>
+  <img src="https://user-images.githubusercontent.com/107587774/215543811-05defee5-d7c7-46f5-b9fa-fa0194b3f670.png" | width=500>
+  <img src="https://user-images.githubusercontent.com/107587774/215543813-74d2cab9-d68c-40d1-aefa-c8c1728724f1.png" | width=500>
 </p>
